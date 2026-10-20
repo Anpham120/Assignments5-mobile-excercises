@@ -2,6 +2,10 @@
 
 Ứng dụng di động quản lý khóa học trực tuyến (bài tập 5), dùng [MockAPI](https://mockapi.io/) làm backend. Viết bằng React Native (Expo SDK 57, Expo Router, TypeScript); ảnh bìa tải bằng `expo-image`, video trailer phát bằng `expo-video`.
 
+## Video thuyết trình
+
+[Video bài tập 5](https://drive.google.com/file/d/1ftpOqJ6caBf3oqoT8_xEjieGzkm-zBCY/view?usp=sharing)
+
 ## MockAPI
 
 Base URL: `https://6acdf8f5f338359cf1c2c3d9.mockapi.io/api/v1`
